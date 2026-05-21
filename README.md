@@ -1,4 +1,4 @@
-# PythonVideoUpscaler
+# PythonNeiroUpscaler
 ### Neural Network Video Upscaler in Python + FFmpeg
 
 ### Manuals
